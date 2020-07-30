@@ -1,0 +1,10 @@
+name = "Mritunjay Mukherjee"
+print(len(name))
+lower = name.lower()
+print(lower)
+upper = name.upper()
+print(upper)
+title = name.title()
+print(title)
+count=name.count("j")
+print(count)
